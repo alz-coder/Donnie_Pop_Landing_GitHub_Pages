@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#fde4ef"/>
+<circle cx="300" cy="270" r="130" fill="#f5b2cf"/>
+<circle cx="300" cy="270" r="65" fill="#fde4ef"/>
+<text x="300" y="470" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#55362e">Tu foto aquí</text>
+<text x="300" y="515" text-anchor="middle" font-family="Arial" font-size="20" fill="#7a5046">Donnie Pop</text>
+</svg>
